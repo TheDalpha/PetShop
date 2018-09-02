@@ -1,0 +1,12 @@
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\obj\Debug\netcoreapp2.1\Oliver.PetShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\obj\Debug\netcoreapp2.1\Oliver.PetShop.Core.AssemblyInfoInputs.cache
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\obj\Debug\netcoreapp2.1\Oliver.PetShop.Core.AssemblyInfo.cs
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\obj\Debug\netcoreapp2.1\Oliver.PetShop.Core.csprojAssemblyReference.cache
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.deps.json
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.dll
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.pdb
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.Entity.dll
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.Entity.pdb
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\obj\Debug\netcoreapp2.1\Oliver.PetShop.Core.csproj.CopyComplete
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\obj\Debug\netcoreapp2.1\Oliver.PetShop.Core.dll
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Core\obj\Debug\netcoreapp2.1\Oliver.PetShop.Core.pdb

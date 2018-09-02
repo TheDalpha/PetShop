@@ -1,0 +1,14 @@
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\obj\Debug\netcoreapp2.1\Oliver.PetShop.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\obj\Debug\netcoreapp2.1\Oliver.PetShop.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\obj\Debug\netcoreapp2.1\Oliver.PetShop.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\obj\Debug\netcoreapp2.1\Oliver.PetShop.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\bin\Debug\netcoreapp2.1\Oliver.PetShop.Infrastructure.Data.deps.json
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\bin\Debug\netcoreapp2.1\Oliver.PetShop.Infrastructure.Data.dll
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\bin\Debug\netcoreapp2.1\Oliver.PetShop.Infrastructure.Data.pdb
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.dll
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.Entity.dll
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.Entity.pdb
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.pdb
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\obj\Debug\netcoreapp2.1\Oliver.PetShop.Infrastructure.Data.csproj.CopyComplete
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\obj\Debug\netcoreapp2.1\Oliver.PetShop.Infrastructure.Data.dll
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.Infrastructure.Data\obj\Debug\netcoreapp2.1\Oliver.PetShop.Infrastructure.Data.pdb

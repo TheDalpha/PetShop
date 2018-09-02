@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Oliver.PetShop.Infrastructure.Data/1.0.0": {
+        "dependencies": {
+          "Oliver.PetShop.Core": "1.0.0",
+          "Oliver.PetShop.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Oliver.PetShop.Infrastructure.Data.dll": {}
+        }
+      },
+      "Oliver.PetShop.Core/1.0.0": {
+        "dependencies": {
+          "Oliver.PetShop.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Oliver.PetShop.Core.dll": {}
+        }
+      },
+      "Oliver.PetShop.Core.Entity/1.0.0": {
+        "runtime": {
+          "Oliver.PetShop.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oliver.PetShop.Infrastructure.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oliver.PetShop.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oliver.PetShop.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

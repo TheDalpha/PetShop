@@ -1,0 +1,6 @@
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.ConsoleApp\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.dll
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.ConsoleApp\bin\Debug\netcoreapp2.1\Oliver.PetShop.Core.Entity.dll
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.ConsoleApp\obj\Debug\netcoreapp2.1\Oliver.PetShop.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.ConsoleApp\obj\Debug\netcoreapp2.1\Oliver.PetShop.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.ConsoleApp\obj\Debug\netcoreapp2.1\Oliver.PetShop.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ollie\source\repos\PetShop\Oliver.PetShop.ConsoleApp\obj\Debug\netcoreapp2.1\Oliver.PetShop.ConsoleApp.AssemblyInfo.cs
